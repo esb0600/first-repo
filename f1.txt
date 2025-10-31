@@ -1,1 +1,2 @@
 int func()
+//function
